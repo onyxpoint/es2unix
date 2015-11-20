@@ -1,5 +1,7 @@
 # es2unix
 
+[![Join the chat at https://gitter.im/onyxpoint/es2unix](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/onyxpoint/es2unix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Elasticsearch API consumable by the command line.
 
 JSON isn't always the most convenient output, particularly on a
